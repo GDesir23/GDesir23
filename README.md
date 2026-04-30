@@ -19,14 +19,27 @@ I am an Information Technology student at St. John's University, aspiring to bec
 
 ---
 
-## 💻 Skills
+## 💻 Languages and Tools
 
 <p align="center">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+         alt="Java"
+         width="60"
+         height="60"/>
   </a>
 
   <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
+         alt="SQL"
+         width="60"
+         height="60"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+         alt="JavaScript"
+         width="60"
+         height="60"/>
   </a>
 </p>
