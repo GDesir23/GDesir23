@@ -8,7 +8,7 @@ I am an Information Technology student at St. John's University, aspiring to bec
 
 ## 🔗 Connect with me
 
-<p align="center">
+<p align="right">
   <a href="https://www.linkedin.com/in/the-gali-desir" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
@@ -21,7 +21,7 @@ I am an Information Technology student at St. John's University, aspiring to bec
 
 ## 💻 Languages and Tools
 
-<p align="center">
+<p align="right">
   <a href="https://www.java.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
          alt="Java"
