@@ -36,6 +36,13 @@ I am an Information Technology student at St. John's University, aspiring to bec
          height="60"/>
   </a>
 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+         alt="MySQL"
+         width="60"
+         height="60"/>
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
          alt="JavaScript"
