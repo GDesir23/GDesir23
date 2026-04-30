@@ -19,7 +19,7 @@ I am an Information Technology student at St. John's University, aspiring to bec
 
 ---
 
-## 💻 Languages and Tools
+## 🔗 Languages and Tools
 
 <p align="left">
   <a href="https://www.java.com" target="_blank">
