@@ -42,4 +42,11 @@ I am an Information Technology student at St. John's University, aspiring to bec
          width="60"
          height="60"/>
   </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+         alt="Figma"
+         width="60"
+         height="60"/>
+  </a>
 </p>
