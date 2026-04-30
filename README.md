@@ -31,15 +31,15 @@ I am an Information Technology student at St. John's University, aspiring to bec
 
   <a href="https://www.oracle.com/database/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-         alt="SQL"
+         alt="Oracle SQL"
          width="60"
          height="60"/>
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
          alt="MySQL"
-         width="60"
+         width="80"
          height="60"/>
   </a>
 
