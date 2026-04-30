@@ -4,3 +4,8 @@ I am an Information Technology Student at St. John's University aspiring to beco
 Email me at galidesir@gmail.com
 
 Connect with me at www.linkedin.com/in/the-gali-desir
+
+<a href="www.linkedin.com/in/the-gali-desir">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
