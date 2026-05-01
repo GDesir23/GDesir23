@@ -5,7 +5,6 @@
 - 📧 Email me at: galidesir@gmail.com  
 - 🌱 I'm currently learning **SQL** and **Java**
 - Here's My Resume: <a href="./Gali_Desir_Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 </a>
 ---
 
