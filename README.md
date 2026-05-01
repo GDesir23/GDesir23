@@ -10,11 +10,18 @@
 ## 🔗 Connect with me
 
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/the-gali-desir" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
          alt="LinkedIn"
          width="60"
          height="60"/>
+  </a>
+
+  <!-- Gmail Badge -->
+  <a href="mailto:galidesir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="Gmail"/>
   </a>
 </p>
 
