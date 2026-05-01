@@ -58,11 +58,9 @@
          height="60"/>
   </a>
 
-  <!-- Canva Logo -->
+  <!-- Canva Badge -->
   <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg"
-         alt="Canva"
-         width="60"
-         height="60"/>
+    <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"
+         alt="Canva Badge"/>
   </a>
 </p>
