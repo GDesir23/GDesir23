@@ -57,4 +57,12 @@
          width="60"
          height="60"/>
   </a>
+
+  <!-- Canva Logo -->
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg"
+         alt="Canva"
+         width="60"
+         height="60"/>
+  </a>
 </p>
