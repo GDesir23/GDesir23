@@ -3,7 +3,7 @@
 **I am an Information Technology student at St. John's University, aspiring to become an IT Infrastructure Engineer!**
 
 - 📧 Email me at: galidesir@gmail.com  
-- 🌱 I'm currently learning **SQL** and **Java**
+- 🌱 I'm currently learning **SQL** and **TypeScript**
 
 ## 🔗 Connect with me
 
